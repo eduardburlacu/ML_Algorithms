@@ -1,5 +1,5 @@
 CREATE TABLE students(
-    name text,
+    name text NOT NULL,
     age integer,
     iq integer,
     gpa real
